@@ -1,0 +1,8 @@
+F:\C#Projects\LoopsPractice\LoopsPractice\bin\Debug\LoopsPractice.exe.config
+F:\C#Projects\LoopsPractice\LoopsPractice\bin\Debug\LoopsPractice.exe
+F:\C#Projects\LoopsPractice\LoopsPractice\bin\Debug\LoopsPractice.pdb
+F:\C#Projects\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.csproj.AssemblyReference.cache
+F:\C#Projects\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.csproj.CoreCompileInputs.cache
+F:\C#Projects\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.exe
+F:\C#Projects\LoopsPractice\LoopsPractice\obj\Debug\LoopsPractice.pdb
