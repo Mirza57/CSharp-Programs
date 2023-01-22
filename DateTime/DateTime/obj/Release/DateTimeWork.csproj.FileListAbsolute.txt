@@ -1,0 +1,8 @@
+F:\C#Projects\DateTime\DateTime\bin\Release\DateTime.exe.config
+F:\C#Projects\DateTime\DateTime\bin\Release\DateTime.exe
+F:\C#Projects\DateTime\DateTime\bin\Release\DateTime.pdb
+F:\C#Projects\DateTime\DateTime\obj\Release\DateTimeWork.csproj.AssemblyReference.cache
+F:\C#Projects\DateTime\DateTime\obj\Release\DateTimeWork.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\DateTime\DateTime\obj\Release\DateTimeWork.csproj.CoreCompileInputs.cache
+F:\C#Projects\DateTime\DateTime\obj\Release\DateTime.exe
+F:\C#Projects\DateTime\DateTime\obj\Release\DateTime.pdb
