@@ -1,0 +1,8 @@
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\bin\Debug\Assignment_08_DogInfo.exe.config
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\bin\Debug\Assignment_08_DogInfo.exe
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\bin\Debug\Assignment_08_DogInfo.pdb
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\obj\Debug\Assignment_08_DogInfo.csproj.AssemblyReference.cache
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\obj\Debug\Assignment_08_DogInfo.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\obj\Debug\Assignment_08_DogInfo.csproj.CoreCompileInputs.cache
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\obj\Debug\Assignment_08_DogInfo.exe
+F:\C#Projects\Assignment_08_DogInfo\Assignment_08_DogInfo\obj\Debug\Assignment_08_DogInfo.pdb
