@@ -1,0 +1,8 @@
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\bin\Debug\Movie_Data_Using_Struct.exe.config
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\bin\Debug\Movie_Data_Using_Struct.exe
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\bin\Debug\Movie_Data_Using_Struct.pdb
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\obj\Debug\Movie_Data_Using_Struct.csproj.AssemblyReference.cache
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\obj\Debug\Movie_Data_Using_Struct.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\obj\Debug\Movie_Data_Using_Struct.csproj.CoreCompileInputs.cache
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\obj\Debug\Movie_Data_Using_Struct.exe
+F:\C#Projects\Movie_Data_Using_Struct\Movie_Data_Using_Struct\obj\Debug\Movie_Data_Using_Struct.pdb

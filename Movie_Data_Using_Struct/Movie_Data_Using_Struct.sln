@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie_Data_Using_Struct", "Movie_Data_Using_Struct\Movie_Data_Using_Struct.csproj", "{5C1B0133-D96A-4005-9D15-14C42EFC74A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1B0133-D96A-4005-9D15-14C42EFC74A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1B0133-D96A-4005-9D15-14C42EFC74A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1B0133-D96A-4005-9D15-14C42EFC74A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1B0133-D96A-4005-9D15-14C42EFC74A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88CEB641-D5CC-48D4-84DF-E8F275E77DD0}
+	EndGlobalSection
+EndGlobal
