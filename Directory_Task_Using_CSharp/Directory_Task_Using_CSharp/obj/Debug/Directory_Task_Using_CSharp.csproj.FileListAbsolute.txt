@@ -1,0 +1,8 @@
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\bin\Debug\Directory_Task_Using_CSharp.exe.config
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\bin\Debug\Directory_Task_Using_CSharp.exe
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\bin\Debug\Directory_Task_Using_CSharp.pdb
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\obj\Debug\Directory_Task_Using_CSharp.csproj.AssemblyReference.cache
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\obj\Debug\Directory_Task_Using_CSharp.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\obj\Debug\Directory_Task_Using_CSharp.csproj.CoreCompileInputs.cache
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\obj\Debug\Directory_Task_Using_CSharp.exe
+F:\C#Projects\Directory_Task_Using_CSharp\Directory_Task_Using_CSharp\obj\Debug\Directory_Task_Using_CSharp.pdb
