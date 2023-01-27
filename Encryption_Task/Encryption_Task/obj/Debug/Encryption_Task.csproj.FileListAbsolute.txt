@@ -1,0 +1,8 @@
+F:\C#Projects\Encryption_Task\Encryption_Task\obj\Debug\Encryption_Task.csproj.AssemblyReference.cache
+F:\C#Projects\Encryption_Task\Encryption_Task\obj\Debug\Encryption_Task.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Encryption_Task\Encryption_Task\obj\Debug\Encryption_Task.csproj.CoreCompileInputs.cache
+F:\C#Projects\Encryption_Task\Encryption_Task\bin\Debug\Encryption_Task.exe.config
+F:\C#Projects\Encryption_Task\Encryption_Task\bin\Debug\Encryption_Task.exe
+F:\C#Projects\Encryption_Task\Encryption_Task\bin\Debug\Encryption_Task.pdb
+F:\C#Projects\Encryption_Task\Encryption_Task\obj\Debug\Encryption_Task.exe
+F:\C#Projects\Encryption_Task\Encryption_Task\obj\Debug\Encryption_Task.pdb
