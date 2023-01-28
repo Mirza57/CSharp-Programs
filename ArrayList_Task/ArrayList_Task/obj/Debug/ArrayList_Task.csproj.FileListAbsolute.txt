@@ -1,0 +1,8 @@
+F:\C#Projects\ArrayList_Task\ArrayList_Task\bin\Debug\ArrayList_Task.exe.config
+F:\C#Projects\ArrayList_Task\ArrayList_Task\bin\Debug\ArrayList_Task.exe
+F:\C#Projects\ArrayList_Task\ArrayList_Task\bin\Debug\ArrayList_Task.pdb
+F:\C#Projects\ArrayList_Task\ArrayList_Task\obj\Debug\ArrayList_Task.csproj.AssemblyReference.cache
+F:\C#Projects\ArrayList_Task\ArrayList_Task\obj\Debug\ArrayList_Task.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\ArrayList_Task\ArrayList_Task\obj\Debug\ArrayList_Task.csproj.CoreCompileInputs.cache
+F:\C#Projects\ArrayList_Task\ArrayList_Task\obj\Debug\ArrayList_Task.exe
+F:\C#Projects\ArrayList_Task\ArrayList_Task\obj\Debug\ArrayList_Task.pdb
