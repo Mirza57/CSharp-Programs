@@ -1,0 +1,8 @@
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\bin\Debug\Add_Remove_UsingListTuples (Assignment 11).exe.config
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\bin\Debug\Add_Remove_UsingListTuples (Assignment 11).exe
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\bin\Debug\Add_Remove_UsingListTuples (Assignment 11).pdb
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\obj\Debug\Add_Remove_UsingListTuples (Assignment 11).csproj.AssemblyReference.cache
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\obj\Debug\Add_Remove_UsingListTuples (Assignment 11).csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\obj\Debug\Add_Remove_UsingListTuples (Assignment 11).csproj.CoreCompileInputs.cache
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\obj\Debug\Add_Remove_UsingListTuples (Assignment 11).exe
+F:\C#Projects\Add_Remove_UsingListTuples (Assignment 11)\Add_Remove_UsingListTuples (Assignment 11)\obj\Debug\Add_Remove_UsingListTuples (Assignment 11).pdb
