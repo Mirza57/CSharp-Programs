@@ -15,6 +15,7 @@ namespace EmployeeInformation_Using_TuplesList
             list.Add(Tuple.Create(6, "Osama Ahmed", "CS Engineer", new DateTime(2022, 11, 3)));
             list.Add(Tuple.Create(9, "Ovais Memon", "CS Engineer", new DateTime(2021, 10, 13)));
 
+            list.Sort();
             foreach (var info in list) 
             {
                 Console.WriteLine("Id of student          : " +info.Item1);
