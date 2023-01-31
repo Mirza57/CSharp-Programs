@@ -1,0 +1,8 @@
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\bin\Debug\GenericList_MovieInfo_Program.exe.config
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\bin\Debug\GenericList_MovieInfo_Program.exe
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\bin\Debug\GenericList_MovieInfo_Program.pdb
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\obj\Debug\GenericList_MovieInfo_Program.csproj.AssemblyReference.cache
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\obj\Debug\GenericList_MovieInfo_Program.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\obj\Debug\GenericList_MovieInfo_Program.csproj.CoreCompileInputs.cache
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\obj\Debug\GenericList_MovieInfo_Program.exe
+F:\C#Projects\GenericList_MovieInfo_Program\GenericList_MovieInfo_Program\obj\Debug\GenericList_MovieInfo_Program.pdb
