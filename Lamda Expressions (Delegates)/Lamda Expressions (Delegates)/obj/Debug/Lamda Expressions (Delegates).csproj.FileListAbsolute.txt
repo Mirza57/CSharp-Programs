@@ -1,0 +1,8 @@
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\bin\Debug\Lamda Expressions (Delegates).exe.config
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\bin\Debug\Lamda Expressions (Delegates).exe
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\bin\Debug\Lamda Expressions (Delegates).pdb
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\obj\Debug\Lamda Expressions (Delegates).csproj.AssemblyReference.cache
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\obj\Debug\Lamda Expressions (Delegates).csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\obj\Debug\Lamda Expressions (Delegates).csproj.CoreCompileInputs.cache
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\obj\Debug\Lamda Expressions (Delegates).exe
+F:\C#Projects\Lamda Expressions (Delegates)\Lamda Expressions (Delegates)\obj\Debug\Lamda Expressions (Delegates).pdb
