@@ -1,0 +1,8 @@
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\bin\Debug\SubjectsInfo Using Delegates.exe.config
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\bin\Debug\SubjectsInfo Using Delegates.exe
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\bin\Debug\SubjectsInfo Using Delegates.pdb
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\obj\Debug\SubjectsInfo Using Delegates.csproj.AssemblyReference.cache
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\obj\Debug\SubjectsInfo Using Delegates.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\obj\Debug\SubjectsInfo Using Delegates.csproj.CoreCompileInputs.cache
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\obj\Debug\SubjectsInfo Using Delegates.exe
+F:\C#Projects\SubjectsInfo Using Delegates\SubjectsInfo Using Delegates\obj\Debug\SubjectsInfo Using Delegates.pdb
