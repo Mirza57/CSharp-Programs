@@ -1,0 +1,8 @@
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\bin\Debug\Creating and Writing in a file using Process.exe.config
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\bin\Debug\Creating and Writing in a file using Process.exe
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\bin\Debug\Creating and Writing in a file using Process.pdb
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\obj\Debug\Creating and Writing in a file using Process.csproj.AssemblyReference.cache
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\obj\Debug\Creating and Writing in a file using Process.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\obj\Debug\Creating and Writing in a file using Process.csproj.CoreCompileInputs.cache
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\obj\Debug\Creating and Writing in a file using Process.exe
+F:\C#Projects\Creating and Writing in a file using Process\Creating and Writing in a file using Process\obj\Debug\Creating and Writing in a file using Process.pdb
