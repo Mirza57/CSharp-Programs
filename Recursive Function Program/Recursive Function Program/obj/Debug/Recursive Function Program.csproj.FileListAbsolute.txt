@@ -1,0 +1,8 @@
+F:\C#Projects\Recursive Function Program\Recursive Function Program\bin\Debug\Recursive Function Program.exe.config
+F:\C#Projects\Recursive Function Program\Recursive Function Program\bin\Debug\Recursive Function Program.exe
+F:\C#Projects\Recursive Function Program\Recursive Function Program\bin\Debug\Recursive Function Program.pdb
+F:\C#Projects\Recursive Function Program\Recursive Function Program\obj\Debug\Recursive Function Program.csproj.AssemblyReference.cache
+F:\C#Projects\Recursive Function Program\Recursive Function Program\obj\Debug\Recursive Function Program.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\Recursive Function Program\Recursive Function Program\obj\Debug\Recursive Function Program.csproj.CoreCompileInputs.cache
+F:\C#Projects\Recursive Function Program\Recursive Function Program\obj\Debug\Recursive Function Program.exe
+F:\C#Projects\Recursive Function Program\Recursive Function Program\obj\Debug\Recursive Function Program.pdb
