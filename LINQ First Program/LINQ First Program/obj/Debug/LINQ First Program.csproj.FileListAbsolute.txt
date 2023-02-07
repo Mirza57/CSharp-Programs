@@ -1,0 +1,8 @@
+F:\C#Projects\LINQ First Program\LINQ First Program\bin\Debug\LINQ First Program.exe.config
+F:\C#Projects\LINQ First Program\LINQ First Program\bin\Debug\LINQ First Program.exe
+F:\C#Projects\LINQ First Program\LINQ First Program\bin\Debug\LINQ First Program.pdb
+F:\C#Projects\LINQ First Program\LINQ First Program\obj\Debug\LINQ First Program.csproj.AssemblyReference.cache
+F:\C#Projects\LINQ First Program\LINQ First Program\obj\Debug\LINQ First Program.csproj.SuggestedBindingRedirects.cache
+F:\C#Projects\LINQ First Program\LINQ First Program\obj\Debug\LINQ First Program.csproj.CoreCompileInputs.cache
+F:\C#Projects\LINQ First Program\LINQ First Program\obj\Debug\LINQ First Program.exe
+F:\C#Projects\LINQ First Program\LINQ First Program\obj\Debug\LINQ First Program.pdb
